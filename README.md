@@ -4,7 +4,8 @@ Final year project marking system (Project 5 [26/27] - Group 6 Team B)
 ## Contributors
 - Elizabeth Avis - Eliz16786 (up2511140)
 - Matt Hunn - MattHunn19 (up2059591)
-- Jamila Moucter - Jamila2288 (up2288590) 
+- Jamila Moucter - Jamila2288 (up2288590)
+- Mishanil Kazreen - mishanilkazreen (up2526165)
 
 ## Project Documents (OneDrive)
 - [Coursework 1](https://portdotacdotuk-my.sharepoint.com/:w:/r/personal/up2655210_myport_ac_uk/Documents/Software%20Engineering%20-%20Project%205/Coursework%201.docx?d=wff5c2db544714b12b5b3cd2f0bae20ef&csf=1&web=1&e=HKsVuo)
