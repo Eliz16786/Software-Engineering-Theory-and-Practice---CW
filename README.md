@@ -4,6 +4,7 @@ Final year project marking system (Project 5 [26/27] - Group 6 Team B)
 ## Contributors
 - Elizabeth Avis - Eliz16786 (up2511140)
 - Matt Hunn - MattHunn19 (up2059591)
+- Jamila Moucter - Jamila2288 (up2288590) 
 
 ## About
 A system should allow any project to be marked blindly by two markers. 
