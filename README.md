@@ -4,7 +4,7 @@ Final year project marking system (Project 5 [26/27] - Group 6 Team B)
 ## Contributors
 - Elizabeth Avis - Eliz16786 (up2511140)
 - Matt Hunn - MattHunn19 (up2059591)
-- Jamila Moucter - Jamila2288 (up2288590)
+
 - Mishanil Kazreen - mishanilkazreen (up2526165)
 - Marley Brooks - BreadBhin (up2526786)
 - Eduardo Fraga - eduardofragga (up2655210)
